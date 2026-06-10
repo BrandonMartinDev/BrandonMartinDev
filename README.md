@@ -27,12 +27,3 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
-
----
-
-### Wanna Contact Me?
-
-First of all why? I'm not even ready for a job... Yet
-
-- **Portfolio Link:** *Not yet, I'll get put it here when i've built it*
-- **LinkedIn:** https://www.linkedin.com/in/bm-dev/
